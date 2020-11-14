@@ -1,0 +1,20 @@
+{
+  "name": "secret-santa-generator",
+  "version": "1.0.0",
+  "description": "This is meant to be used with the secret santa client. This will send out the emails with the links to the website. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "secret",
+    "santa",
+    "generator",
+    "javascript"
+  ],
+  "author": "mitchellfoote93@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
