@@ -15,6 +15,7 @@
   "author": "mitchellfoote93@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "seedrandom": "^3.0.5"
+    "dotenv": "^8.2.0",
+    "seed-random": "^2.2.0"
   }
 }
