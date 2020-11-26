@@ -1,9 +1,6 @@
-export default { 
+module.exports = { 
     personList: [
-        {name: "Batman", email: 'bw@wayne.net'},
-        {name: "Batman", email: 'bw@wayne.net'},
-        {name: "Batman", email: 'bw@wayne.net'},
-        {name: "Batman", email: 'bw@wayne.net'},
-        {name: "Batman", email: 'bw@wayne.net'},
+        {name: "Fake!", email: 'fake1@gmail.com'},
+        {name: "Fake!", email: 'fake2@gmail.com'},
     ]
 }
